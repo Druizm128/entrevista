@@ -1,0 +1,8 @@
+Flask
+numpy
+pandas
+scipy
+sklearn
+xgboost
+jsonify
+request
